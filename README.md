@@ -68,15 +68,6 @@ A library system that manages books.
 
 ---
 
-## Key Concepts Practiced
-- Writing unit tests with `pytest`.
-- Using `assert` statements to validate results.
-- Testing for exceptions with `pytest.raises`.
-- Structuring projects with separate `test_*.py` files.
-- Automating test execution for multiple modules.
-
----
-
 ## How to Run
 
 1. Install pytest:
